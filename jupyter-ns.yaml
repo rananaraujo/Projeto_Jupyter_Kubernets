@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: jupyter
+  annotations:
+    desc: "Namespace for jupyter Notebbok Application"
+    proj: "Final projeyo K8s Course"
+    owner: "Calos Ranan Araujo"
+    phone: 123-456-789
